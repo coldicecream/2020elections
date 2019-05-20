@@ -1,24 +1,26 @@
-Name,Party
-Michael Bennet,Democrat
-Joe   Biden,Democrat
-Cory Booker,Democrat
-Steve Bullock,Democrat
-Pete Buttigieg,Democrat
-Bill de Blasio,Democrat
-Juliam Castro,Democrat
-John Delany,Democrat
-Tulsi Gabbard,Democrat
-Mike Gravel,Democrat
-Kamala Harries,Democrat
-John Hickenlooper,Democrat
-Jay Inslee,Democrat
-Amy Klobuchar,Democrat
-Seth Moulton,Democrat
-Wayne Messam,Democrat
-Bete O’Rourke,Democrat
-Tim Ryan,Democrat
-Bernie Sanders,Democrat
-Eric Swalwell,Democrat
-Elizabeth Warren,Democrat
-Marianne Williamson,Democrat
-Andrew Yang,Democrat
+Name,Party,Age,CurrentPosition,CurrentState
+Michael Bennet,Democrat,54,Senator,Colorado
+Joe   Biden,Democrat,76,Vice President,Delaware
+Cory Booker,Democrat,50,Senator,New Jersey
+Steve Bullock,Democrat,53,Governor,Montana
+Pete Buttigieg,Democrat,37,Mayor,Indiana
+Bill de Blasio,Democrat,58,Mayor,New York
+Julian Castro,Democrat,44,None,Texas
+John Delany,Democrat,56,House,New Jersey
+Tulsi Gabbard,Democrat,38,House,Hawaii
+Mike Gravel,Democrat,89,Senator,Alaska
+Kamala Harries,Democrat,54,Senator,California
+John Hickenlooper,Democrat,67,Governor,Colorado
+Jay Inslee,Democrat,68,Governor,Washington
+Amy Klobuchar,Democrat,58,Senator,Minnesota
+Seth Moulton,Democrat,40,House,Massachusetts
+Wayne Messam,Democrat,44,Mayor,Florida
+Bete O’Rourke,Democrat,46,House,Texas
+Tim Ryan,Democrat,45,House,Ohio
+Bernie Sanders,Democrat,77,Senator,Vermont
+Eric Swalwell,Democrat,38,House,California
+Elizabeth Warren,Democrat,69,Senator,Massachusetts
+Marianne Williamson,Independent,66,House,California
+Andrew Yang,Democrat,44,Entrepreneur,New York
+Donald Trump,Republican,72,President,New York
+Kirsten Gillibrand,Democrat,52,Senator,New York
