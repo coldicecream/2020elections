@@ -2,23 +2,15 @@
        "type": "FeatureCollection",
        "features": [
        {
-           "type": "Feature",
-           "geometry": {
-               "type": "Point",
-               "coordinates": [102.0, 0.5]
-           },
-           "properties": {
-               "prop0": "value0"
-           }
-       },
-       {
               "type": "Feature",
               "geometry" : {
                      "type": "Point",
                      "coordinates": [-118.827814, 34.096819]
               },
               "properties": {
-                     "Description": "Afternoon hike with Sid, Sunny, Ting, Micah, and Rony and family"   
+                     "Title": "Malibu Wine Safari",
+                     "Description": "Afternoon hike with Sid, Sunny, Ting, Micah, and Rony and family",
+                     "Date: "2020-04-18"
               }
        }
        ]
