@@ -1,6 +1,7 @@
 {
        "type": "FeatureCollection",
-       "features": [{
+       "features": [
+       {
            "type": "Feature",
            "geometry": {
                "type": "Point",
@@ -9,5 +10,16 @@
            "properties": {
                "prop0": "value0"
            }
-       }]
+       },
+       {
+              "type": "Feature",
+              "geometry" : {
+                     "type": "Point",
+                     "cordinates": [34.096819, -118.827814]
+              },
+              "properties": {
+                     "Description": "Afternoon hike with Sid, Sunny, Ting, Micah, and Rony and family",      
+              }
+       }
+       ]
 }
