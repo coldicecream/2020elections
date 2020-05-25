@@ -15,10 +15,10 @@
               "type": "Feature",
               "geometry" : {
                      "type": "Point",
-                     "cordinates": [34.096819, -118.827814]
+                     "coordinates": [34.096819, -118.827814]
               },
               "properties": {
-                     "Description": "Afternoon hike with Sid, Sunny, Ting, Micah, and Rony and family",      
+                     "Description": "Afternoon hike with Sid, Sunny, Ting, Micah, and Rony and family"   
               }
        }
        ]
