@@ -1,9 +1,8 @@
 {
        "type": "FeatureCollection",
-       "features": [
-       {
+       "features": [{
               "type": "Feature",
-              "geometry" : {
+              "geometry": {
                      "type": "Point",
                      "coordinates": [-118.827814, 34.096819]
               },
@@ -12,6 +11,5 @@
                      "Description": "Afternoon hike with Sid, Sunny, Ting, Micah, and Rony and family",
                      "Date: "2020-04-18"
               }
-       }
-       ]
+       }]
 }
